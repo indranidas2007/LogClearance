@@ -1,0 +1,4 @@
+Powershell 7.1.3
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+powershell.exe -ExecutionPolicy Bypass -File "C:\Scripts\ClearLog.ps1"
