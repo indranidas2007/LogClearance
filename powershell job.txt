@@ -1,0 +1,11 @@
+
+$trigger = New-JobTrigger -Weekly -DaysOfWeek Sunday -At 9am
+Register-ScheduledJob -Name "WeeklyScriptJob" -FilePath "C:\Path\To\YourScript.ps1" -Trigger $trigger
+
+
+
+Get-ScheduledJob
+
+
+
+Start-Job -DefinitionName "WeeklyScriptJob"

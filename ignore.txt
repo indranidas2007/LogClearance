@@ -1,0 +1,2 @@
+D:\ePublications\ePubsAPI\ContentProcessor\ProcessingDoc\*.log
+D:\ePublications\ePubs\MediaUploader\ProcessingDoc\*.log

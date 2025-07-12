@@ -1,42 +1,38 @@
 D:\ChatInfra\ChatFedWeb\logs\*.log
 D:\ChatInfra\ChatMicroApp\logs\*.log
 D:\ChatInfra\ChatMicroApp\*.log
-D:\ChatInfra\ChatMicroApp\*.txt
 D:\Program Files (x86)\VirtualWorks\IIS\SchedulingDeliverables\desktopui-B3.0\com.ramco.gql.Federation\logs\*.log
+D:\Program Files (x86)\VirtualWorks\IIS\SchedulingDeliverables\desktopui-B3.0\com.ramco.gql.Federation\logs\*.file
 D:\Program Files (x86)\VirtualWorks\IIS\SchedulingDeliverables\desktopui-B3.0\com.ramco.gql.server\logs\*.log
+D:\Program Files (x86)\VirtualWorks\IIS\SchedulingDeliverables\desktopui-B3.0\com.ramco.gql.server\logs\*.file
 D:\Program Files (x86)\VirtualWorks\VWService\Logs\*.log
 D:\Program Files (x86)\VirtualWorks\IIS\Logs\Enterprise\*.log
-D:\Program Files (x86)\VirtualWorks\coreapiops\logs\*.log
-D:\Program Files (x86)\VirtualWorks\coresecurityops\logs\*.log
+D:\Program Files (x86)\VirtualWorks\coreapiops\logs\*.txt
+D:\Program Files (x86)\VirtualWorks\coresecurityops\logs\*.txt
 D:\Program Files (x86)\VirtualWorks\coregwops\logs\*.log
 C:\Temp\*.log
 C:\Temp\*.txt
 D:\Program Files (x86)\VirtualWorks\UDS\App\logs\*.log
+D:\Program Files (x86)\VirtualWorks\udsgraphapiops\logs\udslog\*.log
 D:\Program Files (x86)\VirtualWorks\UDS\Web\logs\*.log
 D:\Program Files (x86)\VirtualWorks\udsgraphapiops\logs\*.log
 D:\Program Files (x86)\VirtualWorks\udsgraphapiops\logs\udslog\*.log
 C:\inetpub\logs\LogFiles\W3SVC1\*.log
 D:\Program Files (x86)\VirtualWorks\IIS\Logs\*.log
 D:\EFBC_Share\*.zip
-D:\ePublications\ePubsAPI\ContentProcessor\ProcessingDoc\*.log
-D:\ePublications\ePubs\MediaUploader\ProcessingDoc\*.log
 D:\Program Files (x86)\VirtualWorks\Logs\*.log
 D:\Program Files (x86)\VirtualWorks\Logs\RT\*.log
 D:\Mail IT\WF_INBOX_1.2.0.3\Inbox Monitor\InboxMonitorLog\!!INS1!!\*.log
+D:\Mail IT\WF_INBOX_1.2.0.3\Inbox Monitor\InboxMonitorLog\!!INS1!!\*.txt
 D:\Mail IT\WF_INBOX_1.2.0.3\Inbox Monitor\InboxMonitorLog\*.log
 D:\Program Files (x86)\VirtualWorks\DWReportServer\Reportlogs\*.log
 D:\Program Files (x86)\VirtualWorks\DWReportServer\Dwlib\Log\*.log
 D:\Program Files (x86)\VirtualWorks\IIS\hub\app\classic\rep\FinancialReportService\*.log
+D:\Program Files (x86)\VirtualWorks\IIS\hub\app\classic\rep\FinancialReportService\FinancialReportLog*.txt
 D:\Program Files (x86)\RamcoUtilities\featureapi-v1.0\Log\*.log
 D:\CustomerPortal\GQLFederation\logs\*.log
 D:\CustomerPortal\GQLMicroservice\logs\*.log
 D:\CustomerPortal\DebugLog\*.log
-D:\IPO\IPO_Mongo4\log\*.log
-D:\IPO\Tomcat_9.0.91\logs\*.log
-D:\IPO\WOSCH\PlanningServer\plugins\PlanningServer_3.4.0\logs\*.log
-D:\IPO\WOSCH\MintExecutor\logs\*.log
-D:\IPO\MRP\IPO_PlanningServer\plugins\PlanningServer_3.4.0\logs\*.log
-D:\IPO\MRP\IPO_MintExecutor\logs\*.log
 D:\ReliabilityFileUpload\*.log
 D:\ReliabilityFileUpload\log\*.log
 D:\ReliabilityReportGen\Log\*.log
