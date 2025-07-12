@@ -1,4 +1,3 @@
-# Relaunch with ExecutionPolicy Bypass using PowerShell 7 (pwsh.exe) only once
 if (-not $env:__PS_Bypass) {
     $env:__PS_Bypass = "1"
     $pwsh = Get-Command pwsh -ErrorAction SilentlyContinue
